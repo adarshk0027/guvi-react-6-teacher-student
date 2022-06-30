@@ -18,7 +18,7 @@ function UserProfile ({
     <div className='UserProfile bg-white '>
       <div className='profileContainer mx-auto rounded'>
         <div className='img mx-auto'>
-          <img width={150} src={user} alt='' />
+          <img width={150} src={user} alt='user image' />
         </div>
         <div className='name'>
           <h3 className='text-primary'>{Name}</h3>

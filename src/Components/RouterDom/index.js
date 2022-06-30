@@ -5,7 +5,6 @@ import ListUser from '../ListUser'
 import { GlobalProvider } from '../Context/GlobalContext'
 import EditStudent from '../EditUser'
 import Viewprofile from '../VuewProfile'
-import EditProfile from '../EditProfile'
 function RouterConfig () {
   return (
     <GlobalProvider>

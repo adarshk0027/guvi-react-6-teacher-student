@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 import user from '../images/user.png'
 import '../VuewProfile/viewprofile.css'
-import { useParams, Link } from 'react-router-dom'
+import { useParams} from 'react-router-dom'
 import { GlobalContext } from '../Context/GlobalContext'
 function Viewprofile () {
   const { Users } = useContext(GlobalContext)
