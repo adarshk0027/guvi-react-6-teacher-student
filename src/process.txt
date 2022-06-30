@@ -1,0 +1,2 @@
+1st we will Create A card Component for creating a card to View All Items .
+2nd we will create a product List with A Common Title.
